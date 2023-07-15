@@ -14,7 +14,7 @@ public class Firstproject {
         long population = 1234564323;
         char gender = 'M';
         boolean readiness = true;
-        String name = "Meqdad 'Ahmad' Darwish";
+        String name = "Meqdad 'Dev'";
         System.out.println(age);
         System.out.println(name);
         System.out.println(x);
