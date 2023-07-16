@@ -3,6 +3,7 @@ package com.mycompany.firstproject;
 /**
  * sout+tab -> System.out.print
  */
+
 public class Firstproject {
 
     public static void main(String[] args) {
