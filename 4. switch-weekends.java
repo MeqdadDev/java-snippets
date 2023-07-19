@@ -11,37 +11,60 @@ public class Firstproject {
 
         switch (day) {
 
-            case "saturday":
-                System.out.println("Weekend");
-                break;
-
             case "sunday":
-                System.out.println("Work day");
-                break;
-
             case "monday":
-                System.out.println("Work day");
-                break;
-
             case "tuesday":
-                System.out.println("Work day");
-                break;
-
             case "wednesday":
-                System.out.println("Work day");
-                break;
-
             case "thursday":
                 System.out.println("Work day");
                 break;
 
             case "friday":
+            case "saturday":
                 System.out.println("Weekend");
                 break;
 
             default:
                 System.out.println("Not a day");
         }
+
+        // Another version
+
+        /*
+         * switch (day) {
+         * 
+         * case "saturday":
+         * System.out.println("Weekend");
+         * break;
+         * 
+         * case "sunday":
+         * System.out.println("Work day");
+         * break;
+         * 
+         * case "monday":
+         * System.out.println("Work day");
+         * break;
+         * 
+         * case "tuesday":
+         * System.out.println("Work day");
+         * break;
+         * 
+         * case "wednesday":
+         * System.out.println("Work day");
+         * break;
+         * 
+         * case "thursday":
+         * System.out.println("Work day");
+         * break;
+         * 
+         * case "friday":
+         * System.out.println("Weekend");
+         * break;
+         * 
+         * default:
+         * System.out.println("Not a day");
+         * }
+         */
 
     }
 }
