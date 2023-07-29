@@ -1,4 +1,4 @@
-# java-snippets
+# Java Snippets
 Simple Code Snippets for Java fundamentals
 
 - [Basic Concepts](1.%20basics/)
