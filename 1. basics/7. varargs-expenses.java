@@ -16,7 +16,7 @@ public class Firstproject {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Welcome to Expenses Claculator");
+        System.out.println("Welcome to Expenses Calculator");
         System.out.println("Enter your expenses for this month: ");
 
         System.out.print("Rent = ");
