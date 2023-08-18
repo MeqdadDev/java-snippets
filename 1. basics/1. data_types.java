@@ -1,8 +1,6 @@
-package com.mycompany.firstproject;
-
-/**
+/*
  * sout+tab -> System.out.print
- */
+*/
 
 public class Firstproject {
 
