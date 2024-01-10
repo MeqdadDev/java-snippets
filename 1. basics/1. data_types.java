@@ -6,6 +6,7 @@ public class Firstproject {
 
     public static void main(String[] args) {
         int age = 25;
+        short k = 14; // 16-bit
         byte x = 127; // 8-bit: -128 -> 127
         byte bintodec = 0b1111111;
         float currency = 3.73f;
